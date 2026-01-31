@@ -3,3 +3,4 @@ This is change is made in newBranch
 
 Conflict Resolution:-
 This line is written in New branch.
+This line is written in NeW branch.
