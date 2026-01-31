@@ -1,2 +1,5 @@
 This is a Text File.
 This is change is made in newBranch
+
+Conflict Resolution:-
+This line is written in MAIN branch.
