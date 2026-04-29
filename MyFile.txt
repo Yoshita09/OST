@@ -9,3 +9,6 @@ This line is written in NeW branch.
 
 
 Line changed in new branch
+OST Practical(Handle merge conflicts)
+
+Line changed in main branch
